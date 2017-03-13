@@ -41,4 +41,4 @@ class SOC(BaseScraper):
         Parses the fetched HTML. Probably has to check
         what `label` we're dealing with to adjust the parser.
         """
-        return 10092
+        return self.html
