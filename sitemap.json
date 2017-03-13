@@ -1,0 +1,108 @@
+[
+  {
+    "name": "Aborter",
+    "type": "dataset"
+  },
+  {
+    "name": "Amning ",
+    "type": "dataset"
+  },
+  {
+    "name": "Cancer",
+    "type": "dataset"
+  },
+  {
+    "name": "Diagnoser i sluten vård",
+    "type": "dataset"
+  },
+  {
+    "name": "Diagnoser i öppen vård",
+    "type": "dataset"
+  },
+  {
+    "name": "DRG i sluten vård",
+    "type": "dataset"
+  },
+  {
+    "name": "Dödsorsaker",
+    "type": "dataset"
+  },
+  {
+    "name": "Ekonomiskt bistånd",
+    "type": "dataset"
+  },
+  {
+    "name": "Familjerätt",
+    "type": "dataset"
+  },
+  {
+    "name": "Graviditeter",
+    "type": "dataset"
+  },
+  {
+    "name": "Graviditeter, förlossningar och nyfödda",
+    "type": "dataset"
+  },
+  {
+    "name": "Hjärtinfarkter",
+    "type": "dataset"
+  },
+  {
+    "name": "Hälso- och sjukvårdspersonal",
+    "type": "dataset"
+  },
+  {
+    "name": "Läkemedel",
+    "type": "dataset"
+  },
+  {
+    "name": "Operationer i sluten vård",
+    "type": "dataset"
+  },
+  {
+    "name": "Operationer i öppen vård (dagkirurgi) ",
+    "type": "dataset"
+  },
+  {
+    "name": "Psykiatrisk tvångsvård",
+    "type": "dataset"
+  },
+  {
+    "name": "Stroke",
+    "type": "dataset"
+  },
+  {
+    "name": "Tandhälsa ",
+    "type": "dataset"
+  },
+  {
+    "name": "Vuxna personer med boendeinsatser och anhörigstöd",
+    "type": "dataset"
+  },
+  {
+    "name": "Vuxna personer med missbruk och beroende",
+    "type": "dataset"
+  },
+  {
+    "name": "Yttre orsaker till skador och förgiftningar",
+    "type": "dataset"
+  },
+  {
+    "name": "Äldreomsorg",
+    "type": "dataset"
+  },
+  {
+    "name": "Example",
+    "type": "topic",
+    "children": [
+      {
+        "name": "example-data",
+        "type": "dataset"
+      },
+      {
+        "name": "example-data2",
+        "type": "dataset"
+      }
+    ]
+  }
+]
